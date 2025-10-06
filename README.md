@@ -91,7 +91,7 @@ Here’s what’s in the pipeline to transform DNA Forge Hub into a **complete d
 
 ```bash
 # Clone this repository
-git clone https://github.com/AkshitTiwarii/dna-forge-hub.git
+git clone https://github.com/DeepanshuS1/DNA-Official.git
 cd dna-forge-hub
 
 # Install dependencies

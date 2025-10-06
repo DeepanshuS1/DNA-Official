@@ -176,6 +176,17 @@ const Navigation = () => {
               Opportunities
             </Link>
 
+            <Link 
+              to="/content"
+              className={`text-sm font-medium transition-colors duration-300 ${
+                location.pathname === '/content' 
+                  ? 'text-blue-400' 
+                  : 'text-gray-300 hover:text-blue-400'
+              }`}
+            >
+              Content
+            </Link>
+
             {isHomePage ? (
               <a 
                 href="#contact" 
